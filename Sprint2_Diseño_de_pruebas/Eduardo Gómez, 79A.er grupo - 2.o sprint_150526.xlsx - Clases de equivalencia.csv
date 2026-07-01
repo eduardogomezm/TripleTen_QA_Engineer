@@ -1,0 +1,27 @@
+Grupo de comprobaciones,Nombre de la clase,Límites,Datos de prueba dentro de la clase (contenido del campo),Datos de prueba en los límites (contenido del campo),Clarificación y optimización
+Nombre, La longitud del texto es de 2 a 14 caracteres,"2, 14",7 caracteres - rodrigo,2 -- ro,Positiva
+,,,,14 -- Rosa Mendoza,Positiva
+,,,,3 -- Avr,Positiva
+,,,,13 -- Cinthya Ramirez,Positiva
+,,,,1 -- C ,Negativa
+,,,,15 -- Nadia Castillo,Negativa
+, La longitud del texto es de 15 caracteres y más,15,18 caracteres -- Ivette Mendoza,15 -- Pedro Santillan,Negativa
+,,,,14 -- Miriam Rojas,Positiva
+,,,,16 -- Ivonne López,Negativa
+,La longitud del texto es de 1 caracter,1,1 caracter -- A,1 -- F,Negativa
+,Campo vacío,,0 — string vacío,,Negativa
+,Caracteres especiales,,#~%¬&,,Negativa
+,Numeros,,1234567890,,Negativa
+Apellido, La longitud del texto es de 2 a 14 caracteres,"2, 14",9 caracteres - Rodriguez,2 -- ra,Positiva
+,,,,14 -- Manzano Santillan,Positiva
+,,,,3 -- Hil,Positiva
+,,,,13 -- Rojas Gómez,Positiva
+,,,,1 -- M,Negativa
+,,,,15 -- Fernando Pozos,Negativa
+, La longitud del texto es de 15 caracteres y más,15,18 caracteres -- Gómez Martinez,15 -- Liliana Perez,Negativa
+,,,,14 -- Ramirez Barrios,Positiva
+,,,,16 -- Barrios Badillo,Negativa
+,La longitud del texto es de 1 caracter,1,1 caracter -- F,1 -- G,Negativa
+,Campo vacío,,0 — string vacío,,Negativa
+,Caracteres especiales,,#~%¬&,,Negativa
+,Numeros,,1234567890,,Negativa
