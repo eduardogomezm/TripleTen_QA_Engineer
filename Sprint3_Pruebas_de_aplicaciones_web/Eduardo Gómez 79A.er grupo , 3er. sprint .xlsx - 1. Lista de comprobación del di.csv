@@ -1,0 +1,30 @@
+Lista de comprobación y resultados de las pruebas: pruebas de diseño,,,,
+,,,,
+№,Descripción de la supervisión,"Estado de la prueba para Google Chrome
+Resolución de pantalla 800x600","Estado de la prueba para Firefox
+Resolución de pantalla 1920x1080",Enlace al informe de errores
+1,"La pantalla se adapta al tamaño del diseño del formulario mostrando desde el campo ""Desde"" hasta el campo ""Método de pago"" ",NO APROBADO,NO APROBADO,https://eduardogom.atlassian.net/browse/PS-12
+2,"Hay un campo con las tres opciones de tarifas "" casual"" ""camping"" y ""de lujo"" ",APROBADO,APROBADO,
+3,Cada opción de tarifa muestra un ícono de automóvil,APROBADO,APROBADO,
+4,Cada opción de tarifa muestra el nombre de la tarifa ,APROBADO,APROBADO,
+5,Cada opción de tarifa muestra el precio de la tarifa,APROBADO,APROBADO,
+6,"Al elegir la tarifa ""Casual"" esta se resalta en color #F5F4F2",APROBADO,APROBADO,
+7,Debajo de la tarifa elegida hay un sección que muestra la marca del automóvil mas cercano ,APROBADO,APROBADO,
+8,"Debajo de la marca del automóvil muestra la descripción de la tarifa ""Solo negocios, nada más"" ",APROBADO,APROBADO,
+9,"Debajo de la descripción de la tarifa muestra la duración del viaje desde el automóvil hasta el punto ""Desde""",APROBADO,APROBADO,
+10,Al lado de la duración del viaje muestra el tiempo de espera gratuito,APROBADO,APROBADO,
+11,Debajo de la duración del viaje y el tiempo de espera gratuito muestra una imagen del automóvil ,APROBADO,APROBADO,
+12,"Debajo del automóvil muestra información de los parámetro adicionales ""cámara frontal . cargador de teléfono"" ",APROBADO,APROBADO,
+13,"Hay un campo para ""agregar licencia de conducir""",APROBADO,APROBADO,
+14,"Hay un campo  para ""Método de pago""",APROBADO,APROBADO,
+15,"Se elige la tarifa ""casual"" y el campo ""agregar licencia de conducir"" está vacío",APROBADO,APROBADO,
+16,"Se elige la tarifa ""casual"" y el campo ""método de pago"" está vacío",APROBADO,APROBADO,
+17,En el campo metodo de pago en el extremo derecho se muestra la imagen de una tarjeta ,APROBADO,APROBADO,
+18,"Si el usuario no tiene ninguna tarjeta bancaria añadida, en el campo ""método de pago"" aparecerá la palabra ""Agregar"" en lugar de la palabra ""Tarjeta"".",APROBADO,APROBADO,
+19,El mapa se muestra de manera amplia sin hacerse zoom sobre la zona de las direcciones agregadas,NO APROBADO,NO APROBADO,https://eduardogom.atlassian.net/browse/PS-13
+20,Muestra el ícono del automóvil más cercano en el mapa,NO APROBADO,NO APROBADO,https://eduardogom.atlassian.net/browse/PS-14
+21,Aparece el recuadro de color #000000 con la marca del automóvil sobre el ícono del automóvil más cercano ,NO APROBADO,NO APROBADO,https://eduardogom.atlassian.net/browse/PS-15
+22,El resto de los automóviles disponibles siguen visualizándose en el mapa como íconos en diferentes direcciones,NO APROBADO,NO APROBADO,https://eduardogom.atlassian.net/browse/PS-16
+23,"En la parte final del formulario se muestra un recuadro de color #007EFF con el siguiente mensaje ""Agregar licencia de conducir y reservar"" ",APROBADO,APROBADO,
+24,"Debajo del mensaje ""Agregar licencia de conducir y reservar"" muestra de la distancia del viaje",APROBADO,APROBADO,
+25,"Debajo del mensaje ""Agregar licencia de conducir y reservar"" muestra la duración del viaje",NO APROBADO,APROBADO,https://eduardogom.atlassian.net/browse/PS-17
